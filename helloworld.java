@@ -7,7 +7,7 @@ public class helloworld {
         LocalDate date = LocalDate.of(2026, 1, 26);
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("EEEE, MMMM d, yyyy");
         
-        System.out.println("=== 26th January Information ===");
+        System.out.println("=== 30th January Information ===");
         System.out.println("Date: " + date.format(formatter));
         System.out.println("Day: " + date.getDayOfWeek());
         System.out.println("Month: " + date.getMonth());
