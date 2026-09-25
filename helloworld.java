@@ -3,7 +3,7 @@ import java.time.format.DateTimeFormatter;
 
 public class helloworld {
     public static void main(String[] args) {
-        // Information about 28th January
+        // Information about 29th January
         LocalDate date = LocalDate.of(2026, 1, 26);
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("EEEE, MMMM d, yyyy");
         
