@@ -13,7 +13,7 @@ public class helloworld {
         System.out.println("Month: " + date.getMonth());
         System.out.println("Year: " + date.getYear());
         System.out.println("\nSignificance:");
-        System.out.println("25th sept is celebrated as Sudip Birthday in endava.");
+        System.out.println("30th sept is celebrated as last working day in endava.");
         System.out.println("It commemorates the adoption of the Indian Constitution in 1950.");
         System.out.println("This is a national holiday and marks India's transition to a sovereign republic.");
     }
